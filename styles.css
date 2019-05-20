@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'OPTIFutura-ExtraBlackCond';
+    src:url('./fonts/OPTIFutura-ExtraBlackCond.ttf.woff') format('woff'),
+        url('./fonts/OPTIFutura-ExtraBlackCond.ttf.svg#OPTIFutura-ExtraBlackCond') format('svg'),
+        url('./fonts/OPTIFutura-ExtraBlackCond.ttf.eot'),
+        url('./fonts/OPTIFutura-ExtraBlackCond.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: 'OPTIFutura-ExtraBlackCond';
+    padding: 50px;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+.logo {
+    width: 300px;
+}
+
+.btn-primary {
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 0;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
