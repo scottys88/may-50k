@@ -10,16 +10,27 @@
 body {
     background-color: black;
     color: white;
-    font-family: 'OPTIFutura-ExtraBlackCond';
     padding: 50px;
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 h1 {
     font-size: 5rem;
+    font-family: 'OPTIFutura-ExtraBlackCond';
 }
 
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 3.5rem;
+        font-family: 'OPTIFutura-ExtraBlackCond';
+    }
+}
+
+
 .logo {
-    width: 300px;
+    max-width: 300px;
+    width: auto;
 }
 
 .btn-primary {

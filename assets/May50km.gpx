@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <name>May50km</name>
+  <author>
+   <name>Daniel Eldridge</name>
+   <link href="https://www.strava.com/athletes/4704387"/>
+  </author>
+  <link href="https://www.strava.com/routes/17814268"/>
+ </metadata>
+ <trk>
+  <name>May50km</name>
+  <link href="https://www.strava.com/routes/17814268"/>
+  <type>Run</type>
+  <trkseg>
+   <trkpt lat="-34.92298" lon="138.60887000000002">
+    <ele>42.57</ele>
+   </trkpt>
+   <trkpt lat="-34.92297" lon="138.60917">
+    <ele>42.38</ele>
+   </trkpt>
+   <trkpt lat="-34.92297" lon="138.60916">
+    <ele>42.38</ele>
+   </trkpt>
+   <trkpt lat="-34.92296" lon="138.60937">
+    <ele>42.29</ele>
+   </trkpt>
+   <trkpt lat="-34.92251" lon="138.60932000000003">
+    <ele>41.160000000000004</ele>
+   </trkpt>
+   <trkpt lat="-34.92255" lon="138.60858000000002">
+    <ele>42.09</ele>
+   </trkpt>
+   <trkpt lat="-34.922920000000005" lon="138.60861">
+    <ele>42.730000000000004</ele>
+   </trkpt>
+   <trkpt lat="-34.923" lon="138.60861">
+    <ele>42.9</ele>
+   </trkpt>
+   <trkpt lat="-34.92298" lon="138.6089">
+    <ele>42.550000000000004</ele>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
