@@ -35,4 +35,3 @@ function loadGPXFileIntoGoogleMap(map, filename) {
                 loadGPXFileIntoGoogleMap(map, "https://cdn.shopify.com/s/files/1/2700/0060/t/2/assets/Belair_to_lofty.xml");
             });
 // ]]></script>
-<div></div>
