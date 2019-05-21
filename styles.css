@@ -30,7 +30,7 @@ h1 {
 
 .logo {
     max-width: 300px;
-    width: auto;
+    width: 100%;
 }
 
 .btn-primary {
